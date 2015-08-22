@@ -1,0 +1,8 @@
+E:\Development\C#\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+E:\Development\C#\Projects\BinaryTree\BinaryTree\bin\Debug\cardDB.enUS.xml
+E:\Development\C#\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+E:\Development\C#\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\Development\C#\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+E:\Development\C#\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+E:\Development\C#\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+E:\Development\C#\Projects\BinaryTree\BinaryTree\bin\Debug\Cards.txt
